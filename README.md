@@ -10,9 +10,16 @@ e. matplotlib 3.1.3
 </pre>
 
 <b>Usage</b>-
-MAIRE_image_code:
+For image data results MAIRE_image_code/ : \
+```
    run MAIRE_Images.ipynb
+```
 
+For synthetic data results synthetic_data_code/ 
+```
+   run synthetic_data.ipynb
+```
 
+For tabular data results tabular_experiments_code follow instructions in readme.
 
 

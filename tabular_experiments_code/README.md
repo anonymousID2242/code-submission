@@ -16,7 +16,7 @@ python2 make_graph_plots.py
 ```
 
 The results will be produced in the compare_lime_anchors/graphs folder.\
-To retrain a classifier that is explained, comments model.load_weights and rerun using above commands.\
+To retrain a classifier that is explained, comments model.load_weights and rerun using above commands.
 
 
 
