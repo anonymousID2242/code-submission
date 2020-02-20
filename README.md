@@ -20,6 +20,23 @@ For synthetic data results in synthetic_data_code/ folder :
    run synthetic_data.ipynb
 ```
 
-For tabular data results tabular_experiments_code/ follow instructions in readme.
+For tabular data results in tabular_experiments_code/ follow instructions in readme.
+
+```
+In tabular_experiments_code/ :
+
+To run MAIRE Code :
+
+cd src/
+python -m examples.adult
+
+To compare methods :
+
+cd compare_lime_anchors/
+python2 make_graph_plots.py
+
+
+```
+
 
 
