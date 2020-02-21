@@ -28,7 +28,7 @@ In tabular_experiments_code/ :
 To run MAIRE Code :
 
 cd src/
-python -m examples.adult
+python3 -m examples.adult
 
 To compare methods :
 
@@ -37,6 +37,18 @@ python2 make_graph_plots.py
 
 
 ```
+
+For MAIRE decision results in vs_MAIRE_decision_code/ follow instructions in readme.
+
+```
+In vs_MAIRE_decision_code :
+To run MAIRE Code :
+
+cd src/
+python3 -m examples.decision_adult
+
+```
+
 
 
 
